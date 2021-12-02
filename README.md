@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saarthack
 - 👀 I’m interested in adventures
-- 🌱 I’m currently learning C, C++, java
-- 💞️ I’m looking to collaborate on C project
+- 🌱 I’m currently learning C, java and FrontEnd Web Development
+- 💞️ I’m looking to collaborate on FrontEnd Web Project
 - 📫 How to reach me ssarthak770@gmail.com 
 
 <!---

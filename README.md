@@ -2,10 +2,12 @@
 
 - 🌐 Full Stack Web Developer
 - 🎨 UI/UX Designer
-- 📚 Engineering Scholar
+- 🎥 Made 400k+ YouTube Channel
+- 💻 Mentored 3000+ Students
 - 💼 Freelancer
 - 💡 Problem Solver
 - ⭐ 5-Star JAVA Programmer
+- 📽️ Part-time Video Editor
 - 🗣️ Skilled Public Speaker
 
 Feel free to connect via email at "ssarthak770@gmail.com." Let's collaborate and create something amazing! 😊🚀

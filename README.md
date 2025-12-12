@@ -4,7 +4,7 @@
 - 🎨 UI/UX Designer
 - 🎥 Made 600k+ YouTube Channel
 - 🎆 Made 200k+ Instagram Page
-- 💻 Mentored 10000+ Students
+- 💻 Mentored 10k+ Students
 - 💼 Freelancer
 - 💡 Problem Solver
 - ⭐ 5-Star JAVA Programmer

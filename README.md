@@ -2,9 +2,9 @@
 
 - 🌐 Full Stack Web Developer
 - 🎨 UI/UX Designer
-- 🎥 Made 550k+ YouTube Channel
+- 🎥 Made 600k+ YouTube Channel
 - 🎆 Made 200k+ Instagram Page
-- 💻 Mentored 7000+ Students
+- 💻 Mentored 10000+ Students
 - 💼 Freelancer
 - 💡 Problem Solver
 - ⭐ 5-Star JAVA Programmer
